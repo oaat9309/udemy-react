@@ -1,6 +1,7 @@
 # Udemy React Project
 
 - project included in [Udemy Lecture](https://www.udemy.com/course/best-react)
+- basic expense monitoring apps
 
 ## Tech Stack
 
